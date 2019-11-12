@@ -60,6 +60,11 @@ input[type='radio'] {
   border: none;
 }
 
+.firstButton {
+  display: flex;
+  justify-content: center;
+}
+
 .animate {
   transition: all 300ms;
 }
